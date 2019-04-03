@@ -1,0 +1,7 @@
+a=input()
+b=a.capitalize()
+print(b)
+c=a.istitle()
+print(c)
+d=a.isnumeric()
+print(d)
