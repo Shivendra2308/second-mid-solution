@@ -1,0 +1,9 @@
+
+a='qwertyuiopasdfghjklzxcvbnm '
+b=set(a)
+q=set(input().lower())
+
+if q==b:
+    print("panagram")
+else:
+    print('not panagram')
